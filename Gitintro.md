@@ -1,7 +1,7 @@
 # GIT INTRO
 ___
 ---
-[![GIT Homework-1](Git.jpg)](https://drive.google.com/file/d/1OTIaNmimIQ5QTiuRBH7Ap4keP8Scpkte/view?usp=share_link "Git")
+[![GIT Homework-1](Homework№1.jpg)](https://drive.google.com/file/d/1OTIaNmimIQ5QTiuRBH7Ap4keP8Scpkte/view?usp=share_link "Git")
 
 ***
 | **Основные команды Git:**        | *Их назначение*                        |
@@ -38,3 +38,6 @@ ___
 >***git merge <new_branch_name>*** - слить содержимое ветки new_branch_name в исходную ветку, например master
 
 >***git merge --abort*** - отменить слияние, которое прошло с конфликтом
+
+>***git branch -d <branch_name>*** - удаление ветки branch_name.
+
