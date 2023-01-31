@@ -32,6 +32,8 @@ ___
 
 > **git branch <branch_name>** - создать новую ветку с именем branch_name
 
->***git checkout -b <branch_name>*** -создание ветки и переход на нее
+>***git checkout -b <branch_name>*** - создание ветки и переход на нее
+
+>***git merge <new_branch_name>*** - слить содержимое ветки new_branch_name в исходную ветку, например master
 
 >***git merge --abort*** - отменить слияние, которое прошло с конфликтом
