@@ -26,7 +26,7 @@ ___
 
 >***git config --global --reset-all user.name*** - изменение настройки глобал, например имени
 
-![Git Homework2](Homework%E2%84%962.jpg "Git")
+![Git Homework2](Homework%E2%84%962.jpg "Git2")
 
 ## Основные команды 2-семинара
 
@@ -49,7 +49,7 @@ ___
 >***git revert -m 1 _some_hash_*** - где _some_hash_ - это хэш коммита слияния (коммит созданный командой git merge), который вы хотите отменить. Этот вариант отменяет все изменения, сделанные командой git merge, и восстанавливает состояние ветки (в которую происходило вливание) до мерджа
 ---
 ***
-[![GIT Homework-1](Homework№2.jpg)](https://drive.google.com/file/d/1nrwsFyLkRCWr6-pR8OkyNQEbIgxxKyp8/view?usp=share_link "Git")
+[![GIT Homework-1](Homework№2.jpg)](https://drive.google.com/file/d/1nrwsFyLkRCWr6-pR8OkyNQEbIgxxKyp8/view?usp=share_link "Git2")
 
 ***
 ___
