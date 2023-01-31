@@ -31,4 +31,4 @@ ___
 ## Основные команды 2-семинара
 
 > **git branch <branch_name>** - создать новую ветку с именем branch_name
->
+>***git branch -d <branch_name>*** - удаление ветки branch_name.
