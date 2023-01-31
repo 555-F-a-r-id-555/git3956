@@ -26,7 +26,7 @@ ___
 
 >***git config --global --reset-all user.name*** - изменение настройки глобал, например имени
 
-![Git Homework](Git.jpg "git")
+![Git Homework2](Homework%E2%84%962.jpg "Git")
 
 ## Основные команды 2-семинара
 
