@@ -28,7 +28,7 @@ ___
 
 ![Git Homework2](Homework%E2%84%962.jpg "Git2")
 
-## Основные команды 2-семинара
+## Основные команды 2-го семинара
 ---
 ***
 > **git branch <branch_name>** - создать новую ветку с именем branch_name
@@ -53,6 +53,5 @@ ___
 ---
 ***
 [![GIT Homework-1](Homework№2.jpg)](https://drive.google.com/file/d/1nrwsFyLkRCWr6-pR8OkyNQEbIgxxKyp8/view?usp=share_link "Git2")
-
 ***
 ___
